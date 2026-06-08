@@ -45,21 +45,20 @@ DB_PASS=wrongpassword dimana seharusnya -> DB_PASS=student123
 
 ---
 
-## Permasalahan 5
+## Permasalahan 5   
 
-### Gejala
-Container web3 gagal dibuat dikarenakan kesalahan penulisan alamat folder.
-yang seharusnya ./web3 tertulis ./web33.Jadi harus dilakukan perbaikan agar web3 bisa berjalan.
+### Gejala   
+
+Container web3 gagal dibuat dikarenakan kesalahan penulisan alamat folder.   
+Yang seharusnya ./web3 tertulis ./web33 sehingga harus dilakukan perbaikan agar web 3 bisa bejalan.
+
 ---
 
-## Permasalahan 6
+## Permasalahan 6   
 
-### Gejala
-Volume database tidak terdeteksi.
-Penyebabnya ialah nama volume yang tidak konsisten antara definisi dan penggunaan.
+### Gejala   
 
-Maka dari itu harus dilakukan penyamaan nama volume menjadi db-data.
----
+Volume database tidak terdeteksi yang disebabkan nama volume yang gak konsisten antara defenisi dan penggunaannya. Maka dari itu perlu dilakukan penyamaan nama volume menjadi db_data.
 
 ## Permasalahan 7
 
