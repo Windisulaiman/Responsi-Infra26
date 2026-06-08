@@ -1,7 +1,7 @@
 <?php
 
-$nama = "ganti ke namamu";
-$nim  = "ganti ke nimmu";
+$nama = "Windi Sulaiman Ismansa";
+$nim  = "H1H024005";
 
 ?>
 
@@ -28,7 +28,7 @@ NIM:
 
 <p>
 Container:
-<strong>WEB-WEB</strong>
+<strong>WEB-2</strong>
 </p>
 
 </body>
