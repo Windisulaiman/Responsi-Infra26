@@ -1,8 +1,7 @@
 # Analisis Perbaikan
 
-## Identitas
+Nama: [Windi Sulaiman Ismansa]   
 
-Nama: [Windi Sulaiman Ismansa]
 NIM: [H1h024005]
 
 ---
